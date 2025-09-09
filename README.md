@@ -1,11 +1,6 @@
 <!-- Top animated coder (optional) -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" alt="Coder animation"/>
-</p>
-
-<!-- Banner image -->
-<p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/933/644/large/gustavo-viselner-mario-coding.jpg?1596036280" alt="Gaming banner" width="900"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6HPSf6Jlhla-0As2MI4CJGtnaYTqEfruoLw&s"/>
 </p>
 
 # 👋 Hello, I'm Krishna Srivastava
