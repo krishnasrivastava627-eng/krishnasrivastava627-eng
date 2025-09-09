@@ -1,6 +1,6 @@
 <!-- Top animated coder (optional) -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6HPSf6Jlhla-0As2MI4CJGtnaYTqEfruoLw&s"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6HPSf6Jlhla-0As2MI4CJGtnaYTqEfruoLw&s" width="400" alt="Coder animation"/>
 </p>
 
 # 👋 Hello, I'm Krishna Srivastava
