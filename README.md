@@ -7,8 +7,6 @@
 
 🚀 Aspiring Frontend Developer | Tech Explorer | Creative Coder
 
-![Profile Views](https://komarev.com/ghpvc/?username=KrishnaSrivastava&label=Profile%20Views&color=blue&style=flat)
-
 ---
 
 ## 🌟 About Me
@@ -29,8 +27,7 @@
 
 ## 📂 Featured Projects
 - ⚔️ **K²** — A mythological action-adventure game concept (Kali vs Kalki).  
-  *(Short description shown here — more details and demo coming soon.)*
-
+  
 ---
 
 ## 🎯 Goals
